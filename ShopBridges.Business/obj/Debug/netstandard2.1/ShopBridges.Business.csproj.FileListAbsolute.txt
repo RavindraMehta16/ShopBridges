@@ -1,0 +1,8 @@
+C:\CIO08\ShopBridges\ShopBridges.Business\bin\Debug\netstandard2.1\ShopBridges.Business.deps.json
+C:\CIO08\ShopBridges\ShopBridges.Business\bin\Debug\netstandard2.1\ShopBridges.Business.dll
+C:\CIO08\ShopBridges\ShopBridges.Business\obj\Debug\netstandard2.1\ShopBridges.Business.AssemblyInfoInputs.cache
+C:\CIO08\ShopBridges\ShopBridges.Business\obj\Debug\netstandard2.1\ShopBridges.Business.AssemblyInfo.cs
+C:\CIO08\ShopBridges\ShopBridges.Business\bin\Debug\netstandard2.1\ShopBridges.Business.pdb
+C:\CIO08\ShopBridges\ShopBridges.Business\obj\Debug\netstandard2.1\ShopBridges.Business.dll
+C:\CIO08\ShopBridges\ShopBridges.Business\obj\Debug\netstandard2.1\ShopBridges.Business.pdb
+C:\CIO08\ShopBridges\ShopBridges.Business\obj\Debug\netstandard2.1\ShopBridges.Business.csprojAssemblyReference.cache
